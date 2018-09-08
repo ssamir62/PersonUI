@@ -1,0 +1,16 @@
+1. I did fairly well with this challenge. Although, it seemed like a lot at first once I started looking into things it became more clear. 
+
+
+2. What was confusing to me was how the functions were connected to the specific buttons/labels. I wasn't able to quickly catch on to that, but with alittle research I was able to find out that you had to drag the selectors to the actual UI label/button. The rest of the challenge was pretty solid after that one obstacle. 
+
+
+3. The difference between the solution and what I had made was most likely the positioning of the UI elements. I didn't fully follow the example that was shown on the module, and winged it since I already know some of Swift. The end result, the application itself, does work exactly like the solutions. However, the positioning is slightly off from what i remember. 
+
+
+4. Git and github I already have past knowledge from other classes and just from expereince. So, there wasn't too much probelms in that, just had to reconfigure it on the mac terminal since I swithced laptops. 
+
+
+5. I mean honestly I'm just proud that I figured out how to do the UI setup and the connection of elements/functions. That was a good/fun start to the coruse! 
+
+
+6. I like the work I did. Can go to sleep soundly knowing that I can do this stuff. 
